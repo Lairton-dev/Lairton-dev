@@ -20,4 +20,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=XAMPP&labelColor=0D1117)&nbsp;
 
+### Quantos me visitaram?
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lairton-dev}/count.svg" /></p> 
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
