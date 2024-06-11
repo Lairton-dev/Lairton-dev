@@ -2,7 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lairton+Gonçalves;e+tenho+19+anos+de+idade;Eu+sou+de+Patos,+PB;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-# Sobre Mim:
+# 👋 Bem-vindo ao meu perfil do GitHub!
+
+Olá, eu sou Lairton Gonçalves! Desenvolvedor entusiasta apaixonado por transformar ideias em código. Aqui você encontrará uma variedade de projetos que refletem minha jornada de aprendizado e exploração no mundo do desenvolvimento de software.
+
+Sinta-se à vontade para explorar meus repositórios, contribuir com ideias e colaborar em projetos interessantes. Estou sempre em busca de aprender algo novo e compartilhar conhecimento com a comunidade.
+
+Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Vamos criar coisas incríveis juntos!
 
 ### Hard Skills:
 
