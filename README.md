@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lairton+Gonçalves;e+tenho+19+anos+de+idade;Eu+sou+de+Patos,+PB;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
+![Avatar](https://avatars.githubusercontent.com/u/172394954?s=96&v=4)
+
+
 ### Hard Skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
