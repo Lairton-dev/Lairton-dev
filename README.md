@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lairton+Gonçalves;e+tenho+19+anos+de+idade;Eu+sou+de+Patos,+PB;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lairton+Gonçalves;tenho+19+anos+de+idade;E+sou+natural+da+cidade+de+Patos,+PB;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 # 👋 Bem-vindo ao meu perfil do GitHub!
 
@@ -9,6 +9,10 @@ Olá, eu sou Lairton Gonçalves! Desenvolvedor entusiasta apaixonado por transfo
 Sinta-se à vontade para explorar meus repositórios, contribuir com ideias e colaborar em projetos interessantes. Estou sempre em busca de aprender algo novo e compartilhar conhecimento com a comunidade.
 
 Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Vamos criar coisas incríveis juntos!
+
+### Formações:
+- **Curso médio técnico em informática**: IFPB Campus Patos, Patos-PB.
+
 
 ### Hard Skills:
 
@@ -26,8 +30,6 @@ Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Vamos c
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=XAMPP&labelColor=0D1117)&nbsp;
 
-### Formações:
-- **Curso médio técnico em informática**: IFPB Campus Patos, Patos-PB.
 
 ### Quantos me visitaram?
 
