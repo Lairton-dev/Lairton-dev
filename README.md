@@ -8,7 +8,7 @@ Olá, eu sou Lairton Gonçalves! Desenvolvedor entusiasta apaixonado por transfo
 
 Sinta-se à vontade para explorar meus repositórios, contribuir com ideias e colaborar em projetos interessantes. Estou sempre em busca de aprender algo novo e compartilhar conhecimento com a comunidade.
 
-Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Vamos criar coisas incríveis juntos!
+Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato (**Atenção**: contato por e-mail presente no meu perfil). Vamos criar coisas incríveis juntos!
 
 ### Formações:
 - **Curso médio técnico em informática**: IFPB Campus Patos, Patos-PB.
