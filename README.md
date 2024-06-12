@@ -13,7 +13,6 @@ Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato (**Aten�
 ### Formações:
 - **Curso médio técnico em informática**: IFPB Campus Patos, Patos-PB.
 
-
 ### Hard Skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -31,7 +30,6 @@ Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato (**Aten�
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=XAMPP&labelColor=0D1117)&nbsp;
 
-
 ### Quantos me visitaram?
 
 <div align="center">
@@ -40,3 +38,4 @@ Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato (**Aten�
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
