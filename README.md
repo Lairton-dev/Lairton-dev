@@ -27,7 +27,7 @@ Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Vamos c
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=XAMPP&labelColor=0D1117)&nbsp;
 
 ### Formações:
-**Curso técnico de informática**: IFPB Campus Patos.
+- **Curso médio técnico em informática**: IFPB Campus Patos, Patos-PB.
 
 ### Quantos me visitaram?
 
