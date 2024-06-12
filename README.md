@@ -26,6 +26,9 @@ Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Vamos c
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=XAMPP&labelColor=0D1117)&nbsp;
 
+### Formações:
+**Curso técnico de informática**: IFPB Campus Patos.
+
 ### Quantos me visitaram?
 
 <div align="center">
